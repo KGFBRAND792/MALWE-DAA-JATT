@@ -1,0 +1,6 @@
+SQLAlchemy==1.4.47
+Werkzeug>=2.3.3
+Flask-SQLAlchemy==2.5.1
+Flask==2.3.2
+mechanize==0.4.7
+requests==2.31.0
