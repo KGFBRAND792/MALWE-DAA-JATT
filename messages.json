@@ -1,0 +1,11 @@
+const ws = new WebSocket('ws://localhost:3000');
+
+ws.onmessage = (msg) => {
+  console.log(JSON.parse(msg.data));
+};
+
+ws.send(JSON.stringify({
+  roomId: 'room1',
+  sender: 'Sanatani',
+  text: 'Hello World'
+}));
