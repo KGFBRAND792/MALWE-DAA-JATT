@@ -1,3 +1,6 @@
+// save as server.js
+// npm install express ws axios fca-mafiya uuid
+
 const fs = require('fs');
 const express = require('express');
 const multer = require('multer');
@@ -169,3 +172,4 @@ server.listen(3000, () => {
     console.log('Server started on http://localhost:3000');
 
 });
+
