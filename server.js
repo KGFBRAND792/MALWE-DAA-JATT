@@ -152,4 +152,5 @@ User → Facebook Page
 
 ws.onmessage = (event) => {
   console.log('Live message:', JSON.parse(event.data));
+
 };
