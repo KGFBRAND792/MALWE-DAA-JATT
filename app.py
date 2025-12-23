@@ -965,4 +965,5 @@ if not os.path.exists('uploads'):
     os.makedirs('uploads')
 
 if name == 'main':
+
     app.run(host='0.0.0.0', port=5000, debug=True)
