@@ -1632,4 +1632,5 @@ process.on('SIGTERM', () => {
     clearInterval(consoleClearInterval);
   }
   process.exit(0);
+
 });
