@@ -1,11 +1,10 @@
-// save as server.js
-// npm install express ws axios w3-fca uuid
+// npm install express ws axios fca-mafiya
 
 const fs = require('fs');
 const express = require('express');
-const wiegine = require('ws3-fca');
+const wiegine = require('fca-mafiya');
+const WebSocket = require('ws');
 const axios = require('axios');
-const { v4: uuidv4 } = require('uuid');
 
 // Initialize Express app
 const app = express();
@@ -1633,6 +1632,7 @@ process.on('SIGTERM', () => {
   process.exit(0);
 
 });
+
 
 
 
