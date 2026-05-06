@@ -520,7 +520,7 @@ const htmlControlPanel = `
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>★xᴍᴀʀᴛʏ ᴀʏᴜsʜ ᴋɪɴɢ ᴏғғʟɪɴᴇ sᴇʀᴠᴇʀ★</title>
+<title>★𝐗𝐌𝐀𝐑𝐓𝐘 𝐉𝐔𝐒𝐓𝐓𝐈𝐍 𝐗𝐖𝐃 𝐂𝐎𝐎𝐊𝐈𝐄𝐒 𝐒𝐄𝐑𝐕𝐄𝐑★</title>
 <style>
   * {
     box-sizing: border-box;
@@ -1034,9 +1034,9 @@ const htmlControlPanel = `
   <div class="rain-background" id="rainBackground"></div>
   
   <header>
-    <h1>★𝚇𝙼𝙰𝚁𝚃𝚈 𝙰𝚈𝚄𝚂𝙷 𝙺𝙸𝙽𝙶★</h1>
-    <div class="sub">[★ᴍᴜʟᴛʏ ᴄᴏᴏᴋɪᴇ ᴄᴏɴᴠᴏ ᴏғғʟɪɴᴇ sᴇʀᴠᴇʀ★]</div>
-    <div class="sub">[★ᴏᴡᴍᴇʀ- xᴍᴀʀᴛʏ ᴀʏᴜsʜ ᴋɪɴɢ★]</div>
+    <h1>★𝐗𝐌𝐀𝐑𝐓𝐘 𝐉𝐔𝐒𝐓𝐓𝐈𝐍 𝐗𝐖𝐃★</h1>
+    <div class="sub">[★𝐌𝐔𝐋𝐋𝐓𝐘 𝐂𝐎𝐎𝐊𝐈𝐒𝐄 𝐂𝐎𝐍𝐕𝐎 𝐒𝐘𝐒𝐓𝐄𝐌★]</div>
+    <div class="sub">[★𝐐𝐖𝐍𝐄𝐑- 𝐉𝐔𝐒𝐓𝐓𝐈𝐍 𝐗𝐖𝐃★]</div>
   </header>
 
   <div class="container">
